@@ -1,0 +1,37 @@
+{
+  "Monday": {
+    "breakfast": "y",
+    "lunch": "p",
+    "dinner": "ds"
+  },
+  "Tuesday": {
+    "breakfast": "sdssds",
+    "lunch": "sdsds",
+    "dinner": "ds"
+  },
+  "Wednesday": {
+    "breakfast": "sdss",
+    "lunch": "ssc",
+    "dinner": "ss"
+  },
+  "Thursday": {
+    "breakfast": "ds",
+    "lunch": "hghb",
+    "dinner": "sxc"
+  },
+  "Friday": {
+    "breakfast": "sccxcxx",
+    "lunch": "scax",
+    "dinner": "sdss"
+  },
+  "Saturday": {
+    "breakfast": "aasc",
+    "lunch": "sdsc",
+    "dinner": "dsds"
+  },
+  "Sunday": {
+    "breakfast": "hss",
+    "lunch": "milk",
+    "dinner": "noodles"
+  }
+}

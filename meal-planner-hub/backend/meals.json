@@ -1,37 +1,37 @@
 {
   "Monday": {
-    "breakfast": "y",
-    "lunch": "p",
-    "dinner": "ds"
+    "breakfast": "edli",
+    "lunch": "meals",
+    "dinner": "chicke"
   },
   "Tuesday": {
-    "breakfast": "sdssds",
-    "lunch": "sdsds",
-    "dinner": "ds"
+    "breakfast": "kellogs",
+    "lunch": "paneer",
+    "dinner": "jnk"
   },
   "Wednesday": {
-    "breakfast": "sdss",
-    "lunch": "ssc",
-    "dinner": "ss"
+    "breakfast": "kfc",
+    "lunch": "bk",
+    "dinner": "md"
   },
   "Thursday": {
-    "breakfast": "ds",
-    "lunch": "hghb",
-    "dinner": "sxc"
+    "breakfast": "dosa",
+    "lunch": "edli",
+    "dinner": "sanbar"
   },
   "Friday": {
-    "breakfast": "sccxcxx",
-    "lunch": "scax",
-    "dinner": "sdss"
+    "breakfast": "kilo",
+    "lunch": "meter",
+    "dinner": "speed"
   },
   "Saturday": {
-    "breakfast": "aasc",
-    "lunch": "sdsc",
-    "dinner": "dsds"
+    "breakfast": "hggg",
+    "lunch": "kil",
+    "dinner": "kjn"
   },
   "Sunday": {
-    "breakfast": "hss",
-    "lunch": "milk",
-    "dinner": "noodles"
+    "breakfast": "edli",
+    "lunch": "rice",
+    "dinner": "parota"
   }
 }
